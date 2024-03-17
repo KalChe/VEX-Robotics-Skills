@@ -1,0 +1,3 @@
+There are two files uploaded, one that is accesible with the VEXcode V5 application provided by VEX, accessible here: (https://www.vexrobotics.com/vexcode/install/v5).
+The other folder has the code that is available to open in VS code, using the VEX code extension. The include, src, vex, and .vscode files are uploaded
+3/16/2024
